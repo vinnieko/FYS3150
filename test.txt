@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-BB CC
-=======
-AA BB
->>>>>>> a1eeffc9bd851bb27bcbfd979c435237e53dfad5
+BB
